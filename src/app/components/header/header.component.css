@@ -1,0 +1,16 @@
+.header{
+  height: 50px;
+  background-color: blueviolet;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0 20%;
+}
+a{
+  text-decoration: none;
+  font-size: 25px;
+  color: aliceblue;
+}
+.active a{
+  color: orange;
+}
